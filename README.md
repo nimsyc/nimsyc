@@ -13,9 +13,3 @@
 - [Environmental Club](https://sites.google.com/site/environmentalclubdhhs/home?authuser=0)
 
 
-
-## Tests
-
-- [hello world](https://nimsyc.github.io/hello-world/) | [poo](https://nimsyc.github.io/poo/)
-  - empty websites
-
