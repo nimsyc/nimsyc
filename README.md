@@ -1,7 +1,7 @@
 # Nimsy Corea
 
 ## WIP
-- [AADM Freedom Fund](https://github.com/joshmess/AADM-Freedom-Fund_)
+- [AADM Freedom Fund](https://github.com/joshmess/AADM-Freedom-Fund)
 - [personal website](https://nimsyc.github.io/)
 - [todolist](https://nimsyc.github.io/todolist/)
   - (now, later, eventually) / shopping list
