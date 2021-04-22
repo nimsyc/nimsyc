@@ -1,4 +1,4 @@
-### Nimsy Corea
+# Nimsy Corea
 
 [Personal Website](nimsyc.github.io)
 
