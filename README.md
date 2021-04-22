@@ -1,4 +1,6 @@
-### nimsyc.github.io
+### Nimsy Corea
+
+[Personal Website](nimsyc.github.io)
 
 ## WIP
 - [AADM Freedom Fund](https://github.com/joshmess/AADM-Freedom-Fund_)
